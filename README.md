@@ -220,11 +220,9 @@ Python menyertakan fungsi built-in sebagai berikut :
   </tbody>
 </table>
 
-
 -----
-<font size="1">Referensi Artikel:</font> <a href="https://www.duniailkom.com">DuniaIlkom</a>, <a href="https://belajarpython.com">BelajarPython</a>. Thanks To: <a href="https://www.duniailkom.com">DuniaIlkom</a>, <a href="https://belajarpython.com">BelajarPython</a><br>
+Referensi Artikel: <a href="https://www.duniailkom.com">DuniaIlkom</a>, <a href="https://belajarpython.com">BelajarPython</a>. Thanks To: <a href="https://www.duniailkom.com">DuniaIlkom</a>, <a href="https://belajarpython.com">BelajarPython</a><br>
 Referensi Source Code: <a href="https://www.youtube.com/user/faqihzamukhlish"> Kelas Terbuka </a> dan <a href="https://github.com/kelasterbuka"> Kelas Terbuka (Repository)</a>. Created by <a href="https://github.com/faqihza">Faqihza Mukhlish.</a> Thanks To: <a href="https://www.youtube.com/channel/UCRGHjysoCemh4y7tCJQs30w/about">Faqihza Mukhlish.</a><br>
-
 
 -----
 All Source Code is Modified.
